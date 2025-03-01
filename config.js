@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', lists, // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '1a574cba6c46aef984b2efbe3061b147', // Write here your API Key
@@ -89,31 +89,6 @@ const CONFIG = {
     		},
 	],
 
-	secondButtonsContainer: [
-		{
-      			icon: 'coffee',
-      			id: '2',
-      			links: [
-        		{
-          			name: 'Lo-Fi Still Here',
-          			link: 'https://www.youtube.com/watch?v=q1T8tGb_A1M&t=8s',
-        		},
-        		{	
-          			name: 'The war is won',
-          			link: 'https://www.youtube.com/watch?v=rENr1sxQUo8&t=1085s',
-        		},
-        		{
-          			name: 'Not today, maybe later',
-          			link: 'https://www.youtube.com/watch?v=3doeiD-8uLs',
-        		},
-        		{
-          			name: '90s Lo-Fi',
-          			link: 'https://www.youtube.com/watch?v=sF80I-TQiW0',
-        		},
-      			],
-    		},
-	],
-
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
@@ -125,90 +100,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lo-Fi Still Here',
+					link: 'https://www.youtube.com/watch?v=q1T8tGb_A1M',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'The war is won',
+					link: 'https://www.youtube.com/watch?v=rENr1sxQUo8',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Not today, maybe later',
+					link: 'https://www.youtube.com/watch?v=3doeiD-8uLs',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-			],
-		},
-	],
-
-	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
-				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
-				},
-				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: '90s Lo-Fi',
+					link: 'https://www.youtube.com/watch?v=sF80I-TQiW0',
 				},
 			],
 		},
