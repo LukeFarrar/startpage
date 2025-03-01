@@ -69,27 +69,49 @@ const CONFIG = {
 			icon: 'twitch',
 			link: 'https://www.twitch.tv/',
 		},
-	],
-
-	secondButtonsContainer: [
 		{
-			id: '1',
+			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '2',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://www.twitch.tv/',
-		},
-		{
-			id: '3',
+			id: '5',
 			name: 'pinterest',
 			icon: 'pin',
 			link: 'https://pinterest.com',
 		},
+		{
+      			id: '6',
+      			name: 'Github',
+      			icon: 'github',
+      			link: 'https://github.com/',
+    		},
+	],
+
+	secondButtonsContainer: [
+		{
+      			icon: 'coffee',
+      			id: '2',
+      			links: [
+        		{
+          			name: 'Lo-Fi Still Here',
+          			link: 'https://www.youtube.com/watch?v=q1T8tGb_A1M&t=8s',
+        		},
+        		{	
+          			name: 'The war is won',
+          			link: 'https://www.youtube.com/watch?v=rENr1sxQUo8&t=1085s',
+        		},
+        		{
+          			name: 'Not today, maybe later',
+          			link: 'https://www.youtube.com/watch?v=3doeiD-8uLs',
+        		},
+        		{
+          			name: '90s Lo-Fi',
+          			link: 'https://www.youtube.com/watch?v=sF80I-TQiW0',
+        		},
+      			],
+    		},
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
