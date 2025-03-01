@@ -126,12 +126,12 @@ const CONFIG = {
           		link: 'https://www.linkedin.com',
         		},
         		{
-          		name: 'University',
-          		link: 'https://vle.york.ac.uk/',
+          		name: 'SkillsForge',
+          		link: 'https://www.skillsforge.york.ac.uk/york/#common/main/welcome,;',
         		},
         		{
-          		name: 'Trello',
-          		link: 'https://www.trello.com',
+          		name: 'YorkVLE',
+          		link: 'https://vle.york.ac.uk/',
         		},
         		{
           		name: 'Slack',
