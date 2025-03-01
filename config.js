@@ -100,20 +100,20 @@ const CONFIG = {
       		id: '1',
       		links: [
         		{
-          		name: 'Inspirational',
-          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          		name: 'Still Here',
+          		link: 'https://www.youtube.com/watch?v=q1T8tGb_A1M',
         		},
         		{	
-          		name: 'Classic',
-          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          		name: 'Chill Lofi',
+          		link: 'https://www.youtube.com/watch?v=sF80I-TQiW0',
         		},
         		{
-          		name: 'Oldies',
-         		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          		name: 'Not Today, Maybe Later',
+         		link: 'https://www.youtube.com/watch?v=3doeiD-8uLs',
         		},
         		{
-          		name: 'Rock',
-          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          		name: 'The War is Won',
+          		link: 'https://www.youtube.com/watch?v=rENr1sxQUo8',
         		},
       		],
     		},
@@ -123,11 +123,11 @@ const CONFIG = {
       		links: [
         		{
           		name: 'Linkedin',
-          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          		link: 'https://www.linkedin.com',
         		},
         		{
-          		name: 'Dribbble',
-          		link: 'https://www.linkedin.com',
+          		name: 'University',
+          		link: 'https://vle.york.ac.uk/',
         		},
         		{
           		name: 'Trello',
