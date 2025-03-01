@@ -94,28 +94,50 @@ const CONFIG = {
 	// ┴─┘┴└─┘ ┴ └─┘
 
 	// First Links Container
-	firstlistsContainer: [
-		{
-			icon: 'music',
-			id: '1',
-			links: [
-				{
-					name: 'Lo-Fi Still Here',
-					link: 'https://www.youtube.com/watch?v=q1T8tGb_A1M',
-				},
-				{
-					name: 'The war is won',
-					link: 'https://www.youtube.com/watch?v=rENr1sxQUo8',
-				},
-				{
-					name: 'Not today, maybe later',
-					link: 'https://www.youtube.com/watch?v=3doeiD-8uLs',
-				},
-				{
-					name: '90s Lo-Fi',
-					link: 'https://www.youtube.com/watch?v=sF80I-TQiW0',
-				},
-			],
-		},
-	],
+	   firstlistsContainer: [
+    	{
+      		icon: 'music',
+      		id: '1',
+      		links: [
+        		{
+          		name: 'Inspirational',
+          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        		},
+        		{	
+          		name: 'Classic',
+          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        		},
+        		{
+          		name: 'Oldies',
+         		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        		},
+        		{
+          		name: 'Rock',
+          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        		},
+      		],
+    		},
+    		{
+      		icon: 'coffee',
+      		id: '2',
+      		links: [
+        		{
+          		name: 'Linkedin',
+          		link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        		},
+        		{
+          		name: 'Dribbble',
+          		link: 'https://www.linkedin.com',
+        		},
+        		{
+          		name: 'Trello',
+          		link: 'https://www.trello.com',
+        		},
+        		{
+          		name: 'Slack',
+          		link: 'https://www.slack.com',
+        		},
+      		],
+    		},
+  		],
 };
